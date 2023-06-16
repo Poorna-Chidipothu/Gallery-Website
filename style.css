@@ -405,8 +405,9 @@ footer{
     font-size: 16px;
     padding: 3px;
     text-align: center;
+    border-top: 1px solid #333;
     background-color: #fff;
-    box-shadow: 0 0 5px rgba(0,0,0,0.75);
+    /* box-shadow: 0 0 5px rgba(0,0,0,0.75); */
 }
 .scrollup{
     position: fixed;
